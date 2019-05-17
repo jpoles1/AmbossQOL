@@ -1,4 +1,4 @@
-.lab-sheet{ 
+.lab-sheet:not(.amboss-panel){ 
     height: 90vh;
     overflow: auto;
 }
