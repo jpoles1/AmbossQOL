@@ -8,4 +8,7 @@ __A lightweight Google Chrome add-on which allows for a quick fix of certain sma
 
  ## Installation
 
- Installation is easy! Just clone/download this repository (make sure to unzip it if necessary), navigate to [chrome://extensions](chrome://extensions) in your Google Chrome browser, and then click and drag the folder into the page!
+ Installation is easy! 
+ 1) Clone/download this repository (make sure to unzip the project if necessary)
+ 2) Navigate to __[chrome://extensions](chrome://extensions)__ in your Google Chrome browser
+ 3) Click and drag the project folder into the the Chrome extensions page and it should be installed!
